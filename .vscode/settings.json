@@ -1,5 +1,0 @@
-{
-    "editor.mouseWheelZoom": true,
-    "workbench.editor.mouseBackForwardToNavigate": true,
-    "python.analysis.typeEvaluation.deprecateTypingAliases": true
-}
